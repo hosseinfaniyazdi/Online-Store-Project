@@ -1,0 +1,9 @@
+C:\Users\hossein\source\repos\LearningSite\LearningSite.DataLayer\bin\Debug\netcoreapp2.2\LearningSite.DataLayer.deps.json
+C:\Users\hossein\source\repos\LearningSite\LearningSite.DataLayer\bin\Debug\netcoreapp2.2\LearningSite.DataLayer.dll
+C:\Users\hossein\source\repos\LearningSite\LearningSite.DataLayer\obj\Debug\netcoreapp2.2\LearningSite.DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\hossein\source\repos\LearningSite\LearningSite.DataLayer\obj\Debug\netcoreapp2.2\LearningSite.DataLayer.AssemblyInfoInputs.cache
+C:\Users\hossein\source\repos\LearningSite\LearningSite.DataLayer\obj\Debug\netcoreapp2.2\LearningSite.DataLayer.AssemblyInfo.cs
+C:\Users\hossein\source\repos\LearningSite\LearningSite.DataLayer\bin\Debug\netcoreapp2.2\LearningSite.DataLayer.pdb
+C:\Users\hossein\source\repos\LearningSite\LearningSite.DataLayer\obj\Debug\netcoreapp2.2\LearningSite.DataLayer.dll
+C:\Users\hossein\source\repos\LearningSite\LearningSite.DataLayer\obj\Debug\netcoreapp2.2\LearningSite.DataLayer.pdb
+C:\Users\hossein\source\repos\LearningSite\LearningSite.DataLayer\obj\Debug\netcoreapp2.2\LearningSite.DataLayer.csprojAssemblyReference.cache

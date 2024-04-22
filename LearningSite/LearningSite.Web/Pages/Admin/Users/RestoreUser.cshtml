@@ -1,0 +1,32 @@
+﻿@page "{id}"
+@using LearningSite.Core.Convertors
+@model LearningSite.Web.Pages.Admin.Users.RestoreUserModel
+@{
+    ViewData["Title"] = "RestoreUser";
+}
+
+<div class="col-md-12">
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            بازیابی کاربر
+        </div>
+        <div class="panel-body">
+            <form method="post">
+                <input type="hidden" name="UserId" value="@ViewData["UserId"].ToString()" />
+
+                <dl class="dl-horizontal">
+                    <dt>بازیابی کاربر </dt>
+                    <dd>آیا مطمئن هستید از بازیابی این کاربر؟</dd>
+                    <dt></dt>
+                    <dd>
+                        <input type="submit" value="بازیابی" class="btn btn-danger" />
+                    </dd>
+                </dl>
+            </form>
+        </div>
+        <!-- /.panel-body -->
+    </div>
+    <!-- /.panel -->
+</div>
+
+

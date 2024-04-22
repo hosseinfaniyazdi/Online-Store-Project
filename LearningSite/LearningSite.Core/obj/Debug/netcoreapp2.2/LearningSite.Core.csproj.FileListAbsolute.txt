@@ -1,0 +1,12 @@
+C:\Users\hossein\source\repos\LearningSite\LearningSite.Core\bin\Debug\netcoreapp2.2\LearningSite.Core.deps.json
+C:\Users\hossein\source\repos\LearningSite\LearningSite.Core\bin\Debug\netcoreapp2.2\LearningSite.Core.dll
+C:\Users\hossein\source\repos\LearningSite\LearningSite.Core\bin\Debug\netcoreapp2.2\LearningSite.Core.pdb
+C:\Users\hossein\source\repos\LearningSite\LearningSite.Core\obj\Debug\netcoreapp2.2\LearningSite.Core.csprojAssemblyReference.cache
+C:\Users\hossein\source\repos\LearningSite\LearningSite.Core\obj\Debug\netcoreapp2.2\LearningSite.Core.csproj.CoreCompileInputs.cache
+C:\Users\hossein\source\repos\LearningSite\LearningSite.Core\obj\Debug\netcoreapp2.2\LearningSite.Core.AssemblyInfoInputs.cache
+C:\Users\hossein\source\repos\LearningSite\LearningSite.Core\obj\Debug\netcoreapp2.2\LearningSite.Core.AssemblyInfo.cs
+C:\Users\hossein\source\repos\LearningSite\LearningSite.Core\obj\Debug\netcoreapp2.2\LearningSite.Core.dll
+C:\Users\hossein\source\repos\LearningSite\LearningSite.Core\obj\Debug\netcoreapp2.2\LearningSite.Core.pdb
+C:\Users\hossein\source\repos\LearningSite\LearningSite.Core\bin\Debug\netcoreapp2.2\LearningSite.DataLayer.dll
+C:\Users\hossein\source\repos\LearningSite\LearningSite.Core\bin\Debug\netcoreapp2.2\LearningSite.DataLayer.pdb
+C:\Users\hossein\source\repos\LearningSite\LearningSite.Core\obj\Debug\netcoreapp2.2\LearningSite.Core.csproj.CopyComplete
